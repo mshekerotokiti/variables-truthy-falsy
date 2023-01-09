@@ -6,6 +6,6 @@ if (isAdult)
     `Jane will have a 20 year old boyfriend`
 }
 else {
-`Jane will not be allowed to have a 20 year old boyfriend`
+`Jane will not be allowed to have a 20 year old boyfriend` //will return false
 }
 console.log(isAdult)
